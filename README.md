@@ -1,5 +1,6 @@
 # udacity_DSND_P1
 Udacity Data Scientist Nanodegree project 1 : blog post
+https://medium.com/@yurdalege/roman-empire-road-data-2a58cb264208
 
  # Udacity Data Scientist Nanodegree 
 
