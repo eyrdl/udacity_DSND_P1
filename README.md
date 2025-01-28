@@ -13,6 +13,10 @@ https://github.com/emeeks/orbis_v2/blob/master/sites_extended.csv
 https://github.com/emeeks/orbis_v2/blob/master/base_routes.geojson
 https://purl.stanford.edu/mn425tz9757
 
+medium link : https://medium.com/@yurdalege/roman-empire-road-data-2a58cb264208
+github link: https://github.com/eyrdl/udacity_DSND_P1
+github repo:  https://github.com/eyrdl/udacity_DSND_P1.git
+
 used libraries:
 
  numpy as np
